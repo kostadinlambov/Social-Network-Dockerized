@@ -29,6 +29,25 @@ hs_err_pid*
 ##################################
 # JS
 
+<<<<<<< HEAD
+=======
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+>>>>>>> ac56027dbf8f9d6c200d3795d68b19ff72c6e7b4
 # Logs
 logs
 *.log
